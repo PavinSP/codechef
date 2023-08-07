@@ -15,3 +15,15 @@ change i to int(i)
         ![Alt text](image-7.png)
 - problem 8
         ![Alt text](image-8.png)
+- problem 9
+        ![Alt text](image-10.png)
+- problem 10
+        ![Alt text](image-9.png)
+- problem 11
+        ![Alt text](image-11.png)
+- problem 12
+        ![Alt text](image-12.png)
+- problem 13
+        ![Alt text](image-13.png)
+- problem 14
+        
