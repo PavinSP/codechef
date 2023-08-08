@@ -26,4 +26,12 @@ change i to int(i)
 - problem 13
         ![Alt text](image-13.png)
 - problem 14
-        
+        ![Alt text](image-14.png)
+- note:
+        ![Alt text](image-15.png)
+- problem 15
+        ![Alt text](image-16.png)
+- problem 16
+        ![Alt text](image-17.png)
+- problem 17 
+        ![Alt text](image-18.png)
