@@ -8,3 +8,7 @@
 - ![Alt text](image-21.png)
 # can chef
 - ![Alt text](image-22.png)
+# increase iq
+- ![Alt text](image-23.png)
+# candy division
+- ![Alt text](image-24.png)
